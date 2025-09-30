@@ -1,5 +1,7 @@
 # Contributing to ProjectGhost
 
+> Demo for the 87650 session
+
 Thank you for your interest in contributing!
 
 ## How to Contribute

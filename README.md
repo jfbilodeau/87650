@@ -1,5 +1,7 @@
 # ProjectGhost
 
+> Demo for the 87650 session
+
 ProjectGhost is a web application built with ASP.NET Core. It includes a main application and a test project for unit testing.
 
 ## Project Structure

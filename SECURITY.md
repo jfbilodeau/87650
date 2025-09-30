@@ -1,5 +1,7 @@
 # Security Policy
 
+> Demo for the 87650 session
+
 ## Reporting a Vulnerability
 
 If you discover a security vulnerability in this project, please report it by opening an issue or contacting the maintainers directly. We will investigate and address the issue promptly.
