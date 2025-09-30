@@ -4,15 +4,15 @@
 
 ### Introduction to Git
 
-https://learn.microsoft.com/en-us/training/modules/intro-to-git/2-exercise-configure-git
+[https://learn.microsoft.com/en-us/training/modules/intro-to-git/2-exercise-configure-git¸(https://learn.microsoft.com/en-us/training/modules/intro-to-git/2-exercise-configure-git)
 
 ### Guided Tour of GitHub
 
-https://github.com/skills-dev/introduction-to-github
+[https://github.com/skills-dev/introduction-to-github](https://github.com/skills-dev/introduction-to-github)
 
 ### Configure Code Scanning
 
-https://github.com/skills-dev/introduction-to-codeql
+[https://github.com/skills-dev/introduction-to-codeql](https://github.com/skills-dev/introduction-to-codeql)
 
 ### Develop with AI-powered code suggestions by using GitHub Copilot and VS Code
 
@@ -28,7 +28,7 @@ https://github.com/skills-dev/introduction-to-codeql
 
 ### Create your first pull request
 
-https://github.com/firstcontributions/first-contributions
+[https://github.com/firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 
 ### InnerSource fundamentals (reading lab)
 
